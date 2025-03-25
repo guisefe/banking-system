@@ -1,4 +1,3 @@
-# banking-system
 
 # Banco Simples
 
